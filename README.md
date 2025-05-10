@@ -38,15 +38,6 @@ SoftSell is a responsive single-page marketing website for a fictional software 
 - Floating chat widget for simulated customer support
 - Consistent hover states and transitions
 
-## Development Time
-
-This project was completed in approximately 8 hours:
-- 1 hour - Planning, wireframing, and component architecture
-- 4 hours - Core component development and styling
-- 1 hour - Responsive design implementation
-- 1 hour - Dark/light mode theme implementation
-- 1 hour - Chat widget and form validation implementation
-
 ## Technologies Used
 
 - React.js with TypeScript
@@ -62,4 +53,3 @@ This project was completed in approximately 8 hours:
 - User account system for tracking license submissions
 - Admin dashboard for managing listings
 - Payment processing integration
->>>>>>> 151a24a (Intial Commit)
