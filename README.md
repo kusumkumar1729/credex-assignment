@@ -1,5 +1,5 @@
 
-# credex-assignment
+# Credex-assignment
 
 # SoftSell - Software License Resale Platform
 
@@ -53,3 +53,29 @@ SoftSell is a responsive single-page marketing website for a fictional software 
 - User account system for tracking license submissions
 - Admin dashboard for managing listings
 - Payment processing integration
+
+## How to Run Locally
+
+bash
+# Clone the repository
+```
+git clone <repository-url>
+```
+# Navigate to the project directory
+```
+cd softsell
+```
+
+# Install dependencies
+```
+npm install
+```
+
+# Start the development server
+```
+npm run dev
+```
+
+## Deployment
+
+The site can be easily deployed to platforms like Vercel, Netlify, or GitHub Pages by connecting the repository to your preferred platform.
