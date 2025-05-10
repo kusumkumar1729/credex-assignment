@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # credex-assignment
-=======
+
 # SoftSell - Software License Resale Platform
 
 SoftSell is a responsive single-page marketing website for a fictional software resale startup. The platform allows businesses to recoup costs from unused software licenses through a simple, secure, and profitable resale process.
